@@ -1,10 +1,10 @@
 # PhD_Thesis
 PhD Thesis (Machine Learning for Image Forensics in Adversarial Setting) 
 
-[Google Scholar](https://scholar.google.com/citations?user=C0bNkP8AAAAJ&hl=en), [EURASIP] (https://theses.eurasip.org/theses/859/machine-learning-techniques-for-image-forensics/)
+[Google Scholar](https://scholar.google.com/citations?user=C0bNkP8AAAAJ&hl=en), [EURASIP](https://theses.eurasip.org/theses/859/machine-learning-techniques-for-image-forensics/)
 
-Supervisor: [Prof. Mauro Barni] (https://scholar.google.it/citations?user=ntRScY8AAAAJ&hl=en)
-Co-supervisor: [Dr. Benedetta Tondi] (https://scholar.google.it/citations?hl=en&user=xpNEfq4AAAAJ)
+Supervisor: [Prof. Mauro Barni](https://scholar.google.it/citations?user=ntRScY8AAAAJ&hl=en)
+Co-supervisor: [Dr. Benedetta Tondi](https://scholar.google.it/citations?hl=en&user=xpNEfq4AAAAJ)
 
 Examination Committe: [Prof. Alessandro Piva](https://scholar.google.it/citations?hl=en&user=rBx30G8AAAAJ), [Prof. Gilulia Boato](https://scholar.google.it/citations?hl=en&user=_nFMOZ8AAAAJ), [Prof. Stefano Melacci](https://scholar.google.it/citations?hl=en&user=_HHu1MQAAAAJ)
 
