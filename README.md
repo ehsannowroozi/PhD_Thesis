@@ -1,5 +1,7 @@
 # PhD_Thesis
-PhD Thesis (Machine Learning for Image Forensics in Adversarial Setting)
+PhD Thesis (Machine Learning for Image Forensics in Adversarial Setting) 
+
+[Google Scholar](https://scholar.google.com/citations?user=C0bNkP8AAAAJ&hl=en))
 
 Abstract:
 The use of machine-learning for multimedia forensics is gaining more and
@@ -23,3 +25,5 @@ machine learning in several adversarial scenarios. The validity of the pro-
 posed solutions has been assessed by considering several manipulation tasks,
 ranging from the detection of double compression and contrast adjustment, to
 the detection of geometric transformations and filtering operations.
+
+
