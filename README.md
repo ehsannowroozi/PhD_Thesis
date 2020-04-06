@@ -6,7 +6,7 @@ PhD Thesis (Machine Learning for Image Forensics in Adversarial Setting)
 Supervisor: [Prof. Mauro Barni] (https://scholar.google.it/citations?user=ntRScY8AAAAJ&hl=en)
 Co-supervisor: [Dr. Benedetta Tondi] (https://scholar.google.it/citations?hl=en&user=xpNEfq4AAAAJ)
 
-Examination Committe: [Prof. Alessandro Piva] (https://scholar.google.it/citations?hl=en&user=rBx30G8AAAAJ), [Prof. Gilulia Boato](https://scholar.google.it/citations?hl=en&user=_nFMOZ8AAAAJ), [Prof. Stefano Melacci](https://scholar.google.it/citations?hl=en&user=_HHu1MQAAAAJ)
+Examination Committe: [Prof. Alessandro Piva](https://scholar.google.it/citations?hl=en&user=rBx30G8AAAAJ), [Prof. Gilulia Boato](https://scholar.google.it/citations?hl=en&user=_nFMOZ8AAAAJ), [Prof. Stefano Melacci](https://scholar.google.it/citations?hl=en&user=_HHu1MQAAAAJ)
 
 Abstract:
 The use of machine-learning for multimedia forensics is gaining more and
